@@ -1,4 +1,4 @@
-BOA VINDAS AO MEU PERFIL
+## BOA VINDAS AO MEU PERFIL
 # Meu nome é welton Ribeiro
 
 Estou estudando na alura
@@ -7,7 +7,7 @@ Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
- PARA ENTRA EM CONTATO COMIGO 
+ # PARA ENTRA EM CONTATO COMIGO 
 
 weltonribeiro525@gmail.com
 
